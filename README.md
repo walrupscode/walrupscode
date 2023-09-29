@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @walrupscode
 - 👀 I’m interested in Pindabutter
 - 🌱 I’m currently learning Svelte
-- 💞️ I’m looking to collaborate on code??
-- 📫 How to reach me... good question
+- 📫 How to reach me... Go to https://volcano.nl
 
 <!---
 walrupscode/walrupscode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
